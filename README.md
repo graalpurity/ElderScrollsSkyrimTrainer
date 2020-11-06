@@ -10,3 +10,6 @@ This is a memory editor similiar to our Dying Light Trainer (https://github.com/
 4. Let the program read for values 
 # Notes:
 * This was tested on 1.1.21.0 but should work for any version
+# Updates:
+# 1st update
+* You can now change the gold amount you put into a storage container 
